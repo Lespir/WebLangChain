@@ -1,6 +1,6 @@
 # Проект WebLangChain
 
-![GitHub](https://github.com/Lespir/WebLangChain/blob/69cb52d90356f6e8ae03976003550bcf4c6c4c58/LICENSE)
+![GitHub](https://img.shields.io/github/license/Lespir/WebLangChain)
 
 ## Описание проекта
 
